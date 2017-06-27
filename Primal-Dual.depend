@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1498535467 source:/home/fernanda/Documentos/UFMG/2017-1/PO/Primal-Dual/main.cpp
+	<iostream>
+	<fstream>
+
